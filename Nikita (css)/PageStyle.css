@@ -1,0 +1,45 @@
+body {
+    background-color:#232121;
+    color: #27ab3b;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+.personal{
+    background-color: #950d0d;
+    color: black;
+    font-size: large;
+}
+.personal header{
+    width: 100%;
+    font-family: fantasy;
+}
+.logo{
+    position: absolute;
+    right: 0%;
+    top: 2%;
+    left: 85%;
+}
+.education .Raphael{
+    float: left;
+    margin-right: 30px;
+}
+.hobby .Raphael2{
+    float: right;
+    margin-right: 20px;
+    position: absolute;
+    left: 10px;
+}
+.hobby .Raphael3{
+    position: absolute;
+    right: 5%;
+    margin-top: 20px;
+}
+.hobby .list{
+    color: #eb0b0b;
+    position: absolute;
+    right: 35%;
+    margin-top: 10px;
+}
+.hobby .list .h1 {
+    color: #27ab3b;
+}
